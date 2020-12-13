@@ -83,3 +83,12 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 {
 	color: white
 }
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
